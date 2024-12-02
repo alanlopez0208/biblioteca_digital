@@ -1,12 +1,12 @@
 # LiterAlura
-## Descripció
+## Descripción
 LiterAlura es un catálogo de libros que permite a los usuarios registrar y buscar libros en una base de datos utilizando Java, Spring Boot y PostgreSQL. Este proyecto se basa en la API de Gutendex, que ofrece acceso a una amplia colección de libros gratuitos.
 
 ## :hammer: Tecnologías utilizadas
-- Java: Lenguaje de programación utilizado para desarrollar la aplicación.
-- Spring Boot: Framework que facilita la creación de aplicaciones Java.
-- Spring Data JPA: Para la gestión de la base de datos.
-- PostgreSQL: Sistema de gestión de bases de datos utilizado para almacenar la información de los libros.
+- **Java**: Lenguaje de programación utilizado para desarrollar la aplicación.
+- **Spring Boot**: Framework que facilita la creación de aplicaciones Java.
+- **Spring Data JPA**: Para la gestión de la base de datos.
+- **PostgreSQ**L: Sistema de gestión de bases de datos utilizado para almacenar la información de los libros.
 ## ⭐ Funcionalidades del proyecto
 - Buscar libro por título: Permite a los usuarios buscar un libro ingresando su título.
 - Listar libros registrados: Muestra todos los libros que han sido registrados en la base de datos.
